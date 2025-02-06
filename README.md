@@ -1,16 +1,5 @@
-# gpa_calculator
+# Quick GPA
 
-A new Flutter project.
+QuickGPA is a mobile application designed for Android devices, built using the Flutter framework and Dart programming language. Its primary function is to provide students with a quick and easy way to calculate their Grade Point Average (GPA).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designed for simplicity and efficiency, QuickGPA streamlines GPA tracking.  Clear input fields for grades and credits, combined with instant calculation, empower students to easily monitor their academic progress on their Android devices.
